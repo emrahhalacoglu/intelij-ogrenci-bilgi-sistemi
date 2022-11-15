@@ -18,6 +18,8 @@ class Main {
         s2.addBulkExamNote(70,50,80,70,90,80);
         s2.isPass();
         s2.printNote();
+        s2.isPass();
+        s2.printNote();
 
 
 
